@@ -8,4 +8,14 @@
     <PackageReference Include="System.Text.Json" Version="4.6.0" />
   </ItemGroup>
 
+  <PropertyGroup>
+    <Authors>Michal Tecl</Authors>
+    <Description>A simple extension method to get pure .NET object tree from JsonToken</Description>
+    <PackageTags>json</PackageTags>    
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+  
 </Project>
